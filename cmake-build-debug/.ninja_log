@@ -1,0 +1,5 @@
+# ninja log v5
+3	656	7120168565485055	CMakeFiles/random_number_generator.dir/main.cpp.obj	5debc4c391407eec
+657	750	7120168566384879	random_number_generator.exe	8bb5c4cbe8844bc0
+3	800	7120171447908407	CMakeFiles/random_number_generator.dir/main.cpp.obj	e2e8b70493a701fa
+800	901	7120171448882620	random_number_generator.exe	8bb5c4cbe8844bc0
